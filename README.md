@@ -1,5 +1,5 @@
 # 💫 About Me:
-CS-AIML Student at Dayananda Sagar College of Engineering<br>I'm currently focused on mastering Machine Learning (ML) concepts and building a strong foundation in this field.<br>Learning advanced algorithms and statistical methods.<br>Exploring new tools, libraries, and techniques in the ML field.<br>Open to working on real-world problems using data and ML...
+CS-AIML Student at Dayananda Sagar College of Engineering<br>I'm currently focused on mastering Machine Learning (ML) concepts and building a strong foundation in this field.<br>Learning advanced algorithms and statistical methods.<br>Exploring new tools, libraries, and techniques in the ML field.<br>Open to working on real-world problems using data and ML.
 
 
 ## 🌐 Socials:
