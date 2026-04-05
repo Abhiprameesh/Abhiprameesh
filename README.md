@@ -59,12 +59,11 @@ Open to working on real-world problems using data and ML.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhiprameesh&show_icons=true&theme=transparent&border_color=FFA500&title_color=FF4C4C&icon_color=FFA500&text_color=FFD1D1&bg_color=0d1117" height="180"/>
 
-  <img src="https://streak-stats.demolab.com?user=Abhiprameesh&theme=transparent&hide_border=true&ring=FFA500&fire=FFA500&currStreakLabel=FF4C4C&sideLabels=FFD1D1&dates=FFD1D1&background=0d1117" height="180"
-  onerror="this.style.display='none'"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Abhiprameesh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 
 ## 📊 Language Insights
 
