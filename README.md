@@ -78,7 +78,7 @@ Open to working on real-world problems using data and ML.
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=Abhiprameesh&icon=5&color=12)
+
 
 ---
 
