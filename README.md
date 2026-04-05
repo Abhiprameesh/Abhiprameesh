@@ -17,15 +17,15 @@ CS-AIML Student at Dayananda Sagar College of Engineering<br>I'm currently focus
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhiprameesh&show_icons=true&theme=transparent&hide_border=true&title_color=FF4C4C&icon_color=FFA500&text_color=FFD1D1" height="180"/>
+![](https://github-readme-stats.vercel.app/api?username=Abhiprameesh&show_icons=true&theme=dark)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiprameesh&theme=transparent&hide_border=true&stroke=FF4C4C&ring=FFA500&fire=FFA500&currStreakLabel=FF4C4C" height="180"/>
-</p>
+![](https://streak-stats.demolab.com?user=Abhiprameesh&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiprameesh&layout=compact&theme=transparent&hide_border=true&title_color=FF4C4C&text_color=FFD1D1" height="150"/>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiprameesh&layout=compact&theme=dark)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=Abhiprameesh&icon=0&color=0)
 
 ---
 
