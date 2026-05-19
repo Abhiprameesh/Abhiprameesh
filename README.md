@@ -12,7 +12,3 @@ AI/ML Engineer and AIML student at Dayananda Sagar College of Engineering passio
 ![](https://streak-stats.demolab.com/?user=Abhiprameesh&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhiprameesh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Abhiprameesh&icon=10&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
