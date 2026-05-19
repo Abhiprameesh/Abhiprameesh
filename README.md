@@ -12,7 +12,8 @@ AI/ML Engineer and AIML student at Dayananda Sagar College of Engineering passio
 ![](https://streak-stats.demolab.com/?user=Abhiprameesh&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhiprameesh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhiprameesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🧠 Summary
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhiprameesh&theme=github_dark" />
+</p>
