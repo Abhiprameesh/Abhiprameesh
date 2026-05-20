@@ -1,10 +1,12 @@
 # 💫 About Me:
 
-CS-AIML Student at Dayananda Sagar College of Engineering<br>
-I'm currently focused on mastering Machine Learning (ML) concepts and building a strong foundation in this field.<br>
-Learning advanced algorithms and statistical methods.<br>
-Exploring new tools, libraries, and techniques in the ML field.<br>
-Open to working on real-world problems using data and ML.
+## About Me
+
+AI/ML Engineer and AIML student at Dayananda Sagar College of Engineering passionate about building real-world AI systems and intelligent applications.
+
+Currently focused on Machine Learning, Generative AI, RAG pipelines, Agentic AI, NLP, and scalable AI solutions while continuously exploring advanced ML concepts and modern AI technologies.
+
+Interested in building impactful projects using LangChain, FastAPI, vector databases, and full-stack development to solve practical real-world problems through AI.
 
 ---
 
