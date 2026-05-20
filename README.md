@@ -1,7 +1,4 @@
 # 💫 About Me:
-
-## About Me
-
 AI/ML Engineer and AIML student at Dayananda Sagar College of Engineering passionate about building real-world AI systems and intelligent applications.
 
 Currently focused on Machine Learning, Generative AI, RAG pipelines, Agentic AI, NLP, and scalable AI solutions while continuously exploring advanced ML concepts and modern AI technologies.
