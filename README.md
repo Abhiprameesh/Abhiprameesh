@@ -103,7 +103,7 @@
 <!-- ⚡ Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=#0c1014&size=22&center=true&vCenter=true&width=500&lines=Code.+Build.+Repeat.;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=#98d1ce&size=22&center=true&vCenter=true&width=500&lines=Code.+Build.+Repeat.;Always+Learning" />
 </p>
 
 ---
