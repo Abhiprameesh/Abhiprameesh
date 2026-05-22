@@ -98,7 +98,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
----
+###
 
 <!-- ⚡ Typing Animation -->
 
@@ -106,7 +106,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=98d1ce&size=22&center=true&vCenter=true&width=500&lines=Code.+Build.+Repeat.;Always+Learning" />
 </p>
 
----
+###
 
 
 
