@@ -80,6 +80,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
+<!-- ⚡ Typing Animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=090707&size=22&center=true&vCenter=true&width=500&lines=Code.+Build.+Repeat.;Always+Learning" />
+</p>
+
+---
+
+
 ###
 
 <h2 align="left">🌐 Socials:</h2>
