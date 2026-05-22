@@ -80,15 +80,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-<!-- ⚡ Typing Animation -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=090707&size=22&center=true&vCenter=true&width=500&lines=Code.+Build.+Repeat.;Always+Learning" />
-</p>
-
----
-
-
 ###
 
 <h2 align="left">🌐 Socials:</h2>
@@ -106,6 +97,18 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
+---
+
+<!-- ⚡ Typing Animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=11151c&size=22&center=true&vCenter=true&width=500&lines=Code.+Build.+Repeat.;Always+Learning" />
+</p>
+
+---
+
+
 
 ###
 
